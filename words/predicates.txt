@@ -286,7 +286,6 @@ cultivate
 cultured
 cumbersome
 curious
-curse
 curved
 cut
 cyan
@@ -688,7 +687,6 @@ knowing
 knowledgeable
 lace
 laced
-lackadaisical
 lacy
 lake
 languid
@@ -748,8 +746,6 @@ lying
 lyrical
 maddening
 magenta
-magic
-magical
 magnetic
 magnificent
 mahogany
@@ -1203,7 +1199,6 @@ spiffy
 spiky
 spiny
 spiral
-spiritual
 splashy
 splendid
 sponge

@@ -1137,8 +1137,6 @@ geranium
 gerbera
 gerbil
 germanium
-ghost
-ghoul
 giant
 gibbon
 giganotosaurus
@@ -1583,8 +1581,6 @@ machine
 mackerel
 macrame
 magazine
-magic
-magician
 magnesium
 magnolia
 magnosaurus
@@ -2555,7 +2551,6 @@ spider
 spike
 spinach
 spinosaurus
-spirit
 splash
 spleen
 split
@@ -3005,7 +3000,6 @@ wire
 wish
 wishbone
 wisteria
-witch
 witness
 wizard
 wok

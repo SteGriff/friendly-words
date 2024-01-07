@@ -12,11 +12,9 @@ brood
 building
 bunch
 business
-cackle
 camp
 cast
 catch
-cauldron
 charm
 chattering
 chime
@@ -40,7 +38,6 @@ congress
 conspiracy
 convocation
 corporation
-coven
 crew
 culture
 dazzle
